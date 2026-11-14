@@ -46,12 +46,12 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
----
+
 
 ### 🎓 Education & Certifications
 
 - 🎓 **B.Tech. in Computer Science & Engineering** — B.I.E.T. (Dr. A.P.J. Abdul Kalam Technical University), Jhansi, India
-- 💼 **Professional Experience** — HCLTech, Impetus Technologies, Tech Mahindra, Accenture, Srijan, Altisource[cite: 11, 
+- 💼 **Professional Experience** — HCLTech, Impetus Technologies, Tech Mahindra, Accenture, Srijan, Altisource
 
 ---
 
