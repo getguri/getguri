@@ -12,16 +12,16 @@
 ### 🏆 Selected Projects
 
 - 💬 **Jordy Bot (AI-Powered Chatbot Platform)**
-  - *Tech:* React, Python, Generative AI, LLMs, RAG, Vector Database, Azure, Postgres[cite: 10, 11].
-  - *Details:* Developed an AI-powered conversational platform from scratch for hundreds of thousands of users across EdTech ecosystems[cite: 10, 11]. Improved answer relevance by ~25% through prompt optimization, context engineering, and RAG-based retrieval[cite: 10, 11].
+  - *Tech:* React, Python, Generative AI, LLMs, RAG, Vector Database, Azure, Postgres.
+  - *Details:* Developed an AI-powered conversational platform from scratch for hundreds of thousands of users across EdTech ecosystems. Improved answer relevance by ~25% through prompt optimization, context engineering, and RAG-based retrieval.
 
 - 🌐 **Microsoft Certified Trainer (MCT) Portal**
-  - *Tech:* TypeScript, Node.js, Angular, RxJS, Topaz UI, Azure DevOps, Microservices[cite: 10, 11].
-  - *Details:* Built 30+ reusable UI components based on the TOPAZ Design System, reducing feature development time by ~35% while ensuring WCAG 2.2 AA compliance[cite: 10, 11].
+  - *Tech:* TypeScript, Node.js, Angular, RxJS, Topaz UI, Azure DevOps, Microservices.
+  - *Details:* Built 30+ reusable UI components based on the TOPAZ Design System, reducing feature development time by ~35% while ensuring WCAG 2.2 AA compliance.
 
 - 📊 **Data Quality for Quality Decisions (DQ4QD)**
-  - *Tech:* React, Node.js, Redux Toolkit, Chart.js, React Flow, AWS[cite: 11, 12].
-  - *Details:* Developed enterprise data governance platform for Bank of America, reducing dashboard load time from ~8s to under 3s[cite: 12].
+  - *Tech:* React, Node.js, Redux Toolkit, Chart.js, React Flow, AWS.
+  - *Details:* Developed enterprise data governance platform for Bank of America, reducing dashboard load time from ~8s to under 3s.
 
 ---
 
@@ -50,14 +50,14 @@
 
 ### 🎓 Education & Certifications
 
-- 🎓 **B.Tech. in Computer Science & Engineering** — B.I.E.T. (Dr. A.P.J. Abdul Kalam Technical University), Jhansi, India[cite: 12]
-- 💼 **Professional Experience** — HCLTech, Impetus Technologies, Tech Mahindra, Accenture, Srijan, Altisource[cite: 11, 12]
+- 🎓 **B.Tech. in Computer Science & Engineering** — B.I.E.T. (Dr. A.P.J. Abdul Kalam Technical University), Jhansi, India
+- 💼 **Professional Experience** — HCLTech, Impetus Technologies, Tech Mahindra, Accenture, Srijan, Altisource[cite: 11, 
 
 ---
 
 ### 📬 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gurvinder-shah-singh-04870529)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gurvinder-shah-singh-253565a)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gurvinderssingh0404@gmail.com)
 
 ---
